@@ -1,5 +1,7 @@
 # A Change in Ecto
 
+**Note:  The following is now resolved in Ecto.**
+
 ## Short Story
 
 The following query works as expected in Ecto 2.2, 
